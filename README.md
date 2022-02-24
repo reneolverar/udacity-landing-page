@@ -1,13 +1,14 @@
 # Landing Page Project
 
-## Table of Contents
+<!-- Dynamically created navigation bar which highlights the section in the body and navigation bar when section is in view. -->
 
-* [Instructions](#instructions)
+# Table of contents
 
-## Instructions
+- [Project Title](#project-title)
+- [Table of contents](#table-of-contents)
+- [Usage](#usage)
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+# Usage
+[(Back to top)](#table-of-contents)
 
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+<!-- Scroll down the page and click on the navigation bar links to navigate through the page -->
