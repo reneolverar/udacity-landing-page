@@ -164,19 +164,19 @@ function activateSection () {
 
 // Scroll to anchor ID using scrollTO event
 
-// I am using the CSS code below to scroll smootly when the botton is clicked.
-// html {
-//     scroll-behavior: smooth;
-// }
+function scrollToSection (event) {
+    event.preventDefault();
+    if (event.target.innerText == "Go to top") {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+    else {
+        document.querySelector(event.target.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        });
+    };
+};
 
-// This function doesn´t work, instead I´m using the CSS code above
-// function scrollToSection (event) {
-//     event.preventDefault();
-//     const clickedElement = event.target;
-//     clickedElement.scrollIntoView({ behavior: 'smooth'});
-// };
-
-// navigation.addEventListener('click', scrollToSection);
+navigation.addEventListener('click', scrollToSection);
 
 /**
  * End Main Functions
