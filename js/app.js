@@ -169,7 +169,7 @@ function scrollToSection (event) {
     if (event.target.innerText == "Go to top") {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
-    else {
+    else if (document.querySelector(event.target.getAttribute('href')) != null) {
         document.querySelector(event.target.getAttribute('href')).scrollIntoView({
             behavior: 'smooth'
         });

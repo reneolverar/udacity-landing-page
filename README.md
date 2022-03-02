@@ -10,10 +10,6 @@ This is the second project of Udacity's Front-End Nanodegree program. The JavaSc
 - [Languages](#languages)
 - [Sources](#sources)
 - [Project Link](#project-link)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
-- [License](#license)
-- [Footer](#footer)
 
 ## Description
 
