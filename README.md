@@ -8,6 +8,7 @@ This is the second project of Udacity's Front-End Nanodegree program. The JavaSc
 - [Table of contents](#table-of-contents)
 - [Description](#description)
 - [Languages](#languages)
+- [Author's name](#authors-name)
 - [Sources](#sources)
 - [Project Link](#project-link)
 
@@ -18,6 +19,10 @@ The website is a landing page that uses Javascript to dynamically create a Navig
 ## Languages
 
 JavaScript, CSS, HTML
+
+## Author's name
+
+René Olvera Romero
 
 ## Sources
 
