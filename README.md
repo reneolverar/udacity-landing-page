@@ -30,4 +30,4 @@ JavaScript, CSS, HTML
 
 ## Project Link
 
-This project is published on GitHub Pages and be reached with the following link: [link to project](https://reneolverar.github.io/udacity-landing-page/)
+This project is published on GitHub Pages and can be reached with the following link: [link to project](https://reneolverar.github.io/udacity-landing-page/)
